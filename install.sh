@@ -13,7 +13,7 @@ go build
 echo "done"
 echo
 echo "installing gospy..."
-sudo cp gosty /bin/
+sudo cp gospy /bin/
 echo "done"
 echo
 echo "to remove gospy:"
