@@ -38,6 +38,11 @@ chmod +x gospy
 ```bash
 sudo cp gospy /bin/
 ```
+---
+
+### Dependencies
+
+libpcap
 
 ---
 
